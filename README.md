@@ -34,7 +34,13 @@ Dengan program seperti dibawah ini ;
 
 ![Mencari data](https://user-images.githubusercontent.com/56834389/70374980-96a67180-192b-11ea-94de-fbeb54dd564c.png)
 
-- Menghapus data mahasiswa dengan hasil seperti dibawah dan hanya 1 data yang tertampil
+- Menghapus data mahasiswa dengan hasil seperti dibawah yang hanya menampilkan data yang masih ada
 
 ![hapus data](https://user-images.githubusercontent.com/56834389/70375035-0fa5c900-192c-11ea-8ff5-c53629690739.png)
 
+**Program Selesai**
+
+
+[FlowChart](url)
+
+![Fcprak5](https://user-images.githubusercontent.com/56834389/70375520-3d414100-1931-11ea-8d9a-933990d04bcb.jpg)

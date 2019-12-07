@@ -18,14 +18,14 @@ Dengan program seperti dibawah ini ;
 
 **Hasil dari Program**
 
-- Jika melihat data sebelum menambahkan data
+- Jika melihat data sebelum ditambahkan
 
 ![L sebelum tambah data](https://user-images.githubusercontent.com/56834389/70374711-4843a380-1928-11ea-98fb-f204d329d789.png)
 
-- Melihat data yang sudah memasukan data
+- Melihat data yang sudah ditambahkan
 
 ![L sesudah tambah data](https://user-images.githubusercontent.com/56834389/70374716-6f01da00-1928-11ea-98a7-ee4ed4156731.png)
 
-- setelah data diubah dan adanya perbedaaan data dengan yang diatas
+- melihat data yang telah diubah dan adanya perbedaaan data dibawah dengan yang diatas
 
 ![Data yang sudah di ubah](https://user-images.githubusercontent.com/56834389/70374781-40383380-1929-11ea-9612-173dac6e4db0.png)

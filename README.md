@@ -29,3 +29,12 @@ Dengan program seperti dibawah ini ;
 - melihat data yang telah diubah dan adanya perbedaaan data dibawah dengan yang diatas
 
 ![Data yang sudah di ubah](https://user-images.githubusercontent.com/56834389/70374781-40383380-1929-11ea-9612-173dac6e4db0.png)
+
+- Mencari data mahasiswa, hasilnya sama dengan tabel di atas
+
+![Mencari data](https://user-images.githubusercontent.com/56834389/70374980-96a67180-192b-11ea-94de-fbeb54dd564c.png)
+
+- Menghapus data mahasiswa dengan hasil seperti dibawah
+
+![hapus data](https://user-images.githubusercontent.com/56834389/70375035-0fa5c900-192c-11ea-8ff5-c53629690739.png)
+

@@ -34,7 +34,7 @@ Dengan program seperti dibawah ini ;
 
 ![Mencari data](https://user-images.githubusercontent.com/56834389/70374980-96a67180-192b-11ea-94de-fbeb54dd564c.png)
 
-- Menghapus data mahasiswa dengan hasil seperti dibawah
+- Menghapus data mahasiswa dengan hasil seperti dibawah dan hanya 1 data yang tertampil
 
 ![hapus data](https://user-images.githubusercontent.com/56834389/70375035-0fa5c900-192c-11ea-8ff5-c53629690739.png)
 
